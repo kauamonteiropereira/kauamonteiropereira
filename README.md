@@ -7,6 +7,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Kate](https://img.shields.io/badge/Kate-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Draw.io](https://img.shields.io/badge
 
 
 ### 🖥️ Sistemas Operacionais & Ambientes
