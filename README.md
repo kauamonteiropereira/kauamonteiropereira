@@ -26,6 +26,7 @@
 
 
 
+![Snake Game](https://raw.githubusercontent.com/kauamonteiropereira/kauamonteiropereira/output/github-contribution-grid-snake.svg)
 
 
 
