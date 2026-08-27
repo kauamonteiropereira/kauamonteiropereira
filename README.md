@@ -1,8 +1,4 @@
-# Olá! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=007ACC&style=for-the-badge)](https://github.com/https://kauamonteiropereira)
-
----
 
 ### 🛠️ Linguagens & Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
