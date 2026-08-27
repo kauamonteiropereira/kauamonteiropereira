@@ -6,9 +6,6 @@
 ![JDK](https://img.shields.io/badge/JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MzeeSxWR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kaux7_m?igsi=NDdlY2gxNzlsODk1)
-<!-- Contador de Visitas -->
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=blue&style=for-the-badge)
-
 
 
 
