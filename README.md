@@ -9,8 +9,6 @@
 <!-- Contador de Visitas -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=blue&style=for-the-badge)
 
-<!-- GIF de Boas-Vindas em Banner -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 
