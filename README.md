@@ -1,6 +1,6 @@
 # Olá! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=007ACC&style=for-the-badge)](https://github.com/https://github.com/kauamonteiropereira)
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=007ACC&style=for-the-badge)](https://github.com/https://kauamonteiropereira)
 
 ---
 
