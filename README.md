@@ -1,6 +1,6 @@
 # Olá! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=007ACC&style=for-the-badge)](https://github.com/SEU_USUARIO)
+[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=007ACC&style=for-the-badge)](https://github.com/https://github.com/kauamonteiropereira)
 
 ---
 
@@ -9,6 +9,9 @@
 ![JDK](https://img.shields.io/badge/JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kate](https://img.shields.io/badge/Kate-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+
 
 ### 🖥️ Sistemas Operacionais & Ambientes
 ![CachyOS](https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=arch-linux&logoColor=white)
