@@ -24,10 +24,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c5WhyjrZ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kaux7_m?igsi=NDdlY2gxNzlsODk1)
 
----
 
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=https://github.com/kauamonteiropereira&show_icons=true&theme=radial)
 
 
 
