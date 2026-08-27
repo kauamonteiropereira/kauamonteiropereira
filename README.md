@@ -27,7 +27,7 @@
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=https://github.com/kauamonteiropereira&show_icons=true&theme=radial)
 
 
 
