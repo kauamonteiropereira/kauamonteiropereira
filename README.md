@@ -1,8 +1,8 @@
 [![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🔥 Sequência de commits
+### 📈 Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO\&theme=dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/kauamonteiropereira)
 
 ### 🛠️ Linguagens & Ferramentas
 
