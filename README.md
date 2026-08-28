@@ -1,4 +1,3 @@
-![Profile Views](https://github-view-counter.vercel.app/api?username=kauamonteiropereira&color=3fb950&style=rounded&label=VISITAS)
 
 [![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
