@@ -43,7 +43,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kauamonteiropereira&theme=tokyonight" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=kauamonteiropereira&theme=tokyonight" alt="GitHub Streak" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kauamonteiropereira&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
