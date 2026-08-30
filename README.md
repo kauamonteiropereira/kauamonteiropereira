@@ -1,6 +1,6 @@
 # Seja bem vindo(a)! 🤝, eu sou Kauã Monteiro Pereira
 
-💻**Programador em treinamento Java**
+💻☕**Programador em treinamento Java**
 🇧🇷 Brasil
 
 ---
