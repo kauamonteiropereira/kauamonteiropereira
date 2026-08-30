@@ -42,10 +42,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com/?user=kauamonteiropereira&theme=tokyonight" alt="GitHub Streak" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kauamonteiropereira&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauamonteiropereira&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamonteiropereira&layout=compact&theme=radical)
 
 ---
 
