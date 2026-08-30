@@ -42,7 +42,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauamonteiropereira&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=kauamonteiropereira&theme=radical))
 
 ---
 
