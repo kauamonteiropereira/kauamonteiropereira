@@ -42,7 +42,12 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Streak](https://streak-stats.demolab.com/?user=kauamonteiropereira&theme=radical))
+![Streak](https://github-readme-streak-stats-eight.vercel.app?user=kauamonteiropereira&theme=radical)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamonteiropereira&layout=compact&theme=radical)
+ 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauamonteiropereira&theme=react-dark)
+
 
 ---
 
