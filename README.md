@@ -40,21 +40,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=kauamonteiropereira&theme=radical)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamonteiropereira&layout=compact&theme=radical)
- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kauamonteiropereira&theme=radical&column=4)
- 
-
-
-
-
-
----
-
 ## 🚀 Filosofia
 
 [![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
