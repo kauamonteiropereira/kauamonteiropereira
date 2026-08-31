@@ -46,7 +46,8 @@
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamonteiropereira&layout=compact&theme=radical)
  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kauamonteiropereira&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauamonteiropereira&show_icons=true&theme=radical)
+
 
 
 ---
